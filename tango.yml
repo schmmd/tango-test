@@ -4,3 +4,4 @@ executor:
   clusters:
     - ai2/general-cirrascale
   docker_image: ghcr.io/allenai/pytorch:1.12.0-cuda11.3-python3.9
+  venv_name: tango

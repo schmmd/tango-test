@@ -1,0 +1,5 @@
+executor:
+  type: beaker
+  beaker_workspace: ai2/michaels-default
+  clusters:
+    - ai2/general-cirrascale

@@ -1,6 +1,7 @@
 {
   steps: {
     main: {
+      type: 'main',
     },
   },
 }
